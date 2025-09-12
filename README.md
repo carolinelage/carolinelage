@@ -10,7 +10,7 @@ import Desenvolvedora from 'CarolineLage';
 class SobreMim extends Desenvolvedora {
   nome     = 'Carol Moreira Lage';
   area    = 'Back-End';
-  trabalho  = 'Totvs S.A';
+  trabalho  = 'Symplicity Brasil';
   local = 'Belo Horizonte, MG';
   pronomes = 'ela / dela';
 }

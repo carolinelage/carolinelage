@@ -17,11 +17,18 @@ class SobreMim extends Desenvolvedora {
 ```
 ##
 ### 👩‍💼 Experiência de trabalho
+[<img align="left" height="50px" width="50px" alt="Symplicity" src="https://media.licdn.com/dms/image/v2/D4E0BAQHtEoGxo6R8uA/company-logo_200_200/company-logo_200_200/0/1689007696089/symplicitybr_logo?e=1760572800&v=beta&t=8FQYcBRwm4Inlwdgn8e4oUbF7Ad73Eao9DEj7hZ5i3M"/>](https://symplicity.com.br/)
+
+[**Software Engineer**](https://www.linkedin.com/in/caroline-slage/) \
+Symplicity Brasil\
+set de 2025 - o momento \
+`Back End`, `.NET Developer`, `Dev Back-End`, `Developer`\
+<br/>
 [<img align="left" height="50px" width="50px" alt="TOTVS" src="https://media.licdn.com/dms/image/v2/D4D0BAQEATHMUo8sshg/company-logo_200_200/B4DZd7OnTLHkAI-/0/1750119118553/totvs_logo?e=1760572800&v=beta&t=FOrLMqblqBjrXvzC2EJ6toGsKDJJqzncTrYBS6rRXxI"/>](https://www.totvs.com/)
 
 [**Software Developer FullStack | Desenvolvedora FullStack**](https://www.linkedin.com/in/caroline-slage/) \
 TOTVS S.A\
-mar de 2023 - o momento · 2.5 anos \
+mar de 2023 - set de 2025 · 2.7 anos \
 `Back End`, `.NET Developer`, `Dev Back-End`, `Developer`\
 <br/>
 [<img align="left" height="50px" width="50px" alt="TOTVS" src="https://media.licdn.com/dms/image/v2/D4D0BAQEATHMUo8sshg/company-logo_200_200/B4DZd7OnTLHkAI-/0/1750119118553/totvs_logo?e=1760572800&v=beta&t=FOrLMqblqBjrXvzC2EJ6toGsKDJJqzncTrYBS6rRXxI"/>](https://www.totvs.com/)

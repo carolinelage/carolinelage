@@ -17,14 +17,14 @@ class SobreMim extends Desenvolvedora {
 ```
 ##
 ### 👩‍💼 Experiência de trabalho
-[<img align="left" height="50px" width="50px" alt="TOTVS" src="https://media.licdn.com/dms/image/v2/D4D0BAQEATHMUo8sshg/company-logo_200_200/B4DZd7OnTLHkAI-/0/1750119118553/totvs_logo?e=1755129600&v=beta&t=E6VbTTX_jmbHIVtyRS2X9dkzXE0eIQ873U6ZcRht26U"/>](https://www.totvs.com/)
+[<img align="left" height="50px" width="50px" alt="TOTVS" src="https://media.licdn.com/dms/image/v2/D4D0BAQEATHMUo8sshg/company-logo_200_200/B4DZd7OnTLHkAI-/0/1750119118553/totvs_logo?e=1760572800&v=beta&t=FOrLMqblqBjrXvzC2EJ6toGsKDJJqzncTrYBS6rRXxI"/>](https://www.totvs.com/)
 
 [**Software Developer FullStack | Desenvolvedora FullStack**](https://www.linkedin.com/in/caroline-slage/) \
 TOTVS S.A\
 mar de 2023 - o momento · 2.5 anos \
 `Back End`, `.NET Developer`, `Dev Back-End`, `Developer`\
 <br/>
-[<img align="left" height="50px" width="50px" alt="TOTVS" src="https://media.licdn.com/dms/image/v2/D4D0BAQEATHMUo8sshg/company-logo_200_200/B4DZd7OnTLHkAI-/0/1750119118553/totvs_logo?e=1755129600&v=beta&t=E6VbTTX_jmbHIVtyRS2X9dkzXE0eIQ873U6ZcRht26U"/>](https://www.totvs.com/)
+[<img align="left" height="50px" width="50px" alt="TOTVS" src="https://media.licdn.com/dms/image/v2/D4D0BAQEATHMUo8sshg/company-logo_200_200/B4DZd7OnTLHkAI-/0/1750119118553/totvs_logo?e=1760572800&v=beta&t=FOrLMqblqBjrXvzC2EJ6toGsKDJJqzncTrYBS6rRXxI"/>](https://www.totvs.com/)
 
 [**Intern Software Developer FullStack | Estágio em Desenvolvimento de Software**](https://www.linkedin.com/in/caroline-slage/) \
 TOTVS S.A\

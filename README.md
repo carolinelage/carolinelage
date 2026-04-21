@@ -61,7 +61,7 @@
 
 <p align="left">
 <a href="https://instagram.com/carolmoreiralage" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFD1DC?style=for-the-badge&logo=instagram&logoColor=333" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolinelage/"><img src="https://img.shields.io/badge/LINKEDIN-C9E4DE?style=for-the-badge&logo=linkedin&logoColor=333" /></a>
+<a href="https://www.linkedin.com/in/caroline-slage/"><img src="https://img.shields.io/badge/LINKEDIN-C9E4DE?style=for-the-badge&logo=linkedin&logoColor=333" /></a>
 <a href="https://medium.com/@carolmoreiralage"><img src="https://img.shields.io/badge/MEDIUM-F2C6DE?style=for-the-badge&logo=medium&logoColor=333" /></a>
 <a href = "mailto:santos.caroline26@hotmail.com"><img src="https://img.shields.io/badge/email-C9E4DE?style=for-the-badge&logo=gmail&logoColor=333" target="_blank"></a>
 </p>

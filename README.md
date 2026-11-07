@@ -1,14 +1,35 @@
-# ✨ Hello, I'm Caroline Lage! | Designer & Software Engineer ✨
+# ✦ Olá, sou a Caroline Lage! | Engenheira de Software & Designer ✦
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Brand_Designer-E0BBE4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software_Engineering-C9E4DE?style=for-the-badge" />
-</p>
+<div align="center">
+  
+  ![Engenharia de Software](https://img.shields.io/badge/SOFTWARE_ENGINEERING-E8DAEF?style=for-the-badge&logoColor=black)
+  ![Brand Designer](https://img.shields.io/badge/BRAND_DESIGNER-FADBD8?style=for-the-badge&logoColor=black)
+  
+</div>
 
-## ☁️ About Me
-*Computer Engineering student (8th semester) and Brand Designer. I bridge the gap between high-end visual identities and robust back-end systems. Passionate about UI/UX, and .NET architecture.*
+### ✦ Sobre Mim
+*Desenvolvedora Full Stack e .NET com experiência em Arquitetura de Sistemas e Design UX/UI. Especializada em backends de alto desempenho em C# / .NET Core, modernização de sistemas legados, integrações complexas de APIs e interfaces intuitivas.*
 
-## 💼 Work Experience
+### ✦ Tech Stack & Ferramentas
+#### Backend & Arquitetura
+![C#](https://img.shields.io/badge/C%23-FADBD8?style=for-the-badge&logo=c-sharp&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-E8DAEF?style=for-the-badge&logo=.net&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-FCF3CF?style=for-the-badge&logo=microsoft-sql-server&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-D4EFDF?style=for-the-badge&logo=mongodb&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-D6EAF8?style=for-the-badge&logo=postman&logoColor=black)
+
+#### Frontend & UX
+![Angular](https://img.shields.io/badge/Angular-FADBD8?style=for-the-badge&logo=angular&logoColor=black)
+![React](https://img.shields.io/badge/React-E8DAEF?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-E5E7E9?style=for-the-badge&logo=next.js&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-D6EAF8?style=for-the-badge&logo=typescript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-FADBD8?style=for-the-badge&logo=figma&logoColor=black)
+
+#### Cloud & DevOps
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-D6EAF8?style=for-the-badge&logo=azure-devops&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F5CBA7?style=for-the-badge&logo=git&logoColor=black)
+
+### ✦ Experiência
 
 <br>
 
@@ -48,24 +69,9 @@
 </p>
 <br clear="left">
 
-## 🛠️ Design & Tech
+### ✦ Vamos Conectar?
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FIGMA-FFD1DC?style=for-the-badge&logo=figma&logoColor=333" />
-  <img src="https://img.shields.io/badge/.NET-E0BBE4?style=for-the-badge&logo=dotnet&logoColor=333" />
-  <img src="https://img.shields.io/badge/AZURE-C9E4DE?style=for-the-badge&logo=microsoft-azure&logoColor=333" />
-  <img src="https://img.shields.io/badge/WORDPRESS-FDF0D5?style=for-the-badge&logo=wordpress&logoColor=333" />
-</p>
-
-## 🌸 Let's Connect?
-
-<p align="left">
-<a href="https://instagram.com/carolmoreiralage" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFD1DC?style=for-the-badge&logo=instagram&logoColor=333" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caroline-slage/"><img src="https://img.shields.io/badge/LINKEDIN-C9E4DE?style=for-the-badge&logo=linkedin&logoColor=333" /></a>
-<a href="https://medium.com/@carolmoreiralage"><img src="https://img.shields.io/badge/MEDIUM-F2C6DE?style=for-the-badge&logo=medium&logoColor=333" /></a>
-<a href = "mailto:santos.caroline26@hotmail.com"><img src="https://img.shields.io/badge/email-C9E4DE?style=for-the-badge&logo=gmail&logoColor=333" target="_blank"></a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolinelage&show_icons=true&theme=rose_pine&bg_color=fff1f2&title_color=db2777&text_color=be185d&hide_border=true" />
-</p>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FADBD8?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-D6EAF8?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com)
+[![Substack](https://img.shields.io/badge/SUBSTACK-FADBD8?style=for-the-badge&logo=substack&logoColor=black)](https://thedevelopersversion.substack.com/)
+[![Email](https://img.shields.io/badge/EMAIL-D4EFDF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:seu-email@email.com)

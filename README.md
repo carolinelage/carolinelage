@@ -1,4 +1,4 @@
-# ✦ Olá, sou a Caroline Lage! | Engenheira de Software & Designer ✦
+# ✦ Olá, sou Caroline Lage! | Engenheira de Software & Designer ✦
 
 <div align="center">
   
